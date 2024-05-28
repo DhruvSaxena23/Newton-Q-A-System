@@ -1,9 +1,7 @@
 
 # Newtons Q&A: Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
 
-This is an end to end LLM project based on Google Palm and Langchain. We are building a Q&A system for an e-learning company called newton school. Newton School sells data related courses and bootcamps. They have thousands of learners who uses discord server or email to ask questions. This system will provide a streamlit based user interface for students where they can ask questions and get answers. 
-
-![](newton_q_and_a.png)
+About this Project This project involves creating an end-to-end Q&A system using Google Palm and Langchain for Newto School, an e-learning company specializing in DS-related courses. The system will cater to thousands of learners who ask questions via Discord or email. It will feature a Streamlit-based user interface where students can ask questions and receive answers efficiently. 
 
 ## Project Highlights
 
