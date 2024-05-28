@@ -21,7 +21,7 @@ About this Project This project involves creating an end-to-end Q&A system using
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/NewtonSchool2/Newton-Q-A-System
 ```
 2.Navigate to the project directory:
 
