@@ -1,4 +1,3 @@
-!pip install google-generativeai
 import streamlit as st
 from langchain_helper import get_qa_chain, create_vector_db
 
